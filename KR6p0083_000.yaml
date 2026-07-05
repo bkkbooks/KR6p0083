@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6p0083/x/v1/juan/0
 seq: 0
 front:
-  text: 無量壽佛讚注并引大智律師所製讚詞文約義豐旨趣宏遠唯心之道盡於此矣嘗慨吾宗二三豪傑注釋流行隨言取解暗乎指歸有抑乎作者之意深可惜焉偶諸同道以愚曾習山家之教薄究斯宗再命箋注愚雖不敏有異前聞遂採經論格言直申厥旨庶幾少悟西邁之資糧非特沽出藍之譽也覽者取長其理無取長其情焉庚午中秋日寓三江蘭若注
-  hash: sha256:5f5957d3cbbb6624b7b971b877af195c683b6805a1d5f9663dae334a607d9f90
+  text: 無量壽佛讚註并引大智律師所製讚詞文約義豐旨趣宏遠唯心之道盡於此矣嘗慨吾宗二三豪傑註釋流行隨言取解暗乎指歸有抑乎作者之意深可惜焉偶諸同道以愚曾習山家之教薄究斯宗再命箋註愚雖不敏有異前聞遂採經論格言直申厥旨庶幾少悟西邁之資粮非特沽出藍之譽也覽者取長其理無取長其情焉庚午中秋日寓三江蘭若註
+  hash: sha256:84479652786a2db7f3522733b5cab73711274833061f1b54ab44578f3d15f051
   markers:
   - {type: 序, offset: 0, content: No. 1466-A 無量壽佛讚註(并引), id: KR6p0083_X_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X74/X74n1466.xml
     old_id: X74n1466
-hash: sha256:8cc3bd9c63824e1680724bd3162b0ee299baf664ad23b26e853c5c0c1bef0470
+hash: sha256:1bfd0b6fcc662e37a36b2a25668b8bbfadc04ea7a93803bd2d55785fe75fc2a8
