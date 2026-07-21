@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0083_000-X.yaml, hash: 'sha256:1bfd0b6fcc662e37a36b2a25668b8bbfadc04ea7a93803bd2d55785fe75fc2a8'}
+  - {seq: 0, filename: KR6p0083_000-X.yaml, hash: 'sha256:f705dd6e2c388ab5f9ce76a674bcf208c902435e29fb60623815f94467ea66ac'}
   - {seq: 1, filename: KR6p0083_001-X.yaml, hash: 'sha256:fa043f4ef334f7286a9ed662b0337d5d77f76a676f23e906115c95399bab13ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0083_000-X.markers.yaml, hash: 'sha256:ea1b35c671e8b678f6661071d1e61290d83ea5bf4d3fab8deda436d96bb660c1'}
+  - {seq: 0, role: markers, filename: assets/KR6p0083_000-X.markers.yaml, hash: 'sha256:7ed54a2e3461ac2a59fbec317d2863cdb25daca8456f1979f48d3e590e1b8b31'}
   - {seq: 1, role: markers, filename: assets/KR6p0083_001-X.markers.yaml, hash: 'sha256:ebd3a0f8526adc5085a952ee16104e31f1dcf17cff52f9e6695268f41ed12b7a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0083_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1466-A 無量壽佛讚註(并引)
@@ -75,4 +75,4 @@ table_of_contents:
   label: No. 1466-C
   type: mulu
   level: 1
-hash: sha256:c75928ab18ac6b431188b62941321e29fb45b00b09677eec55403712f9fbf3a5
+hash: sha256:061e15db94f9990e03152256ada0f3cb3f75aec244e6efbbe060fe48aab79cdd
